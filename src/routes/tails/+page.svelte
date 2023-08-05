@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> tran-neh leo-setra tranie-seh ohe-fir Fielterea</title>
-    <link rel="stylesheet" href="mains.css">
 </head>
 <body>
     <h1> tran-neh leo-setra tranie-seh ohe-fir Fielterea</h1>
