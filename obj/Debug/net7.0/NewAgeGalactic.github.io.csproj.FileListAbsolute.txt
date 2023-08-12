@@ -1,0 +1,14 @@
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\obj\Debug\net7.0\NewAgeGalactic.github.io.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\obj\Debug\net7.0\NewAgeGalactic.github.io.AssemblyInfoInputs.cache
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\obj\Debug\net7.0\NewAgeGalactic.github.io.AssemblyInfo.cs
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\obj\Debug\net7.0\NewAgeGalactic.github.io.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\bin\Debug\net7.0\NewAgeGalactic.github.io.exe
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\bin\Debug\net7.0\NewAgeGalactic.github.io.deps.json
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\bin\Debug\net7.0\NewAgeGalactic.github.io.runtimeconfig.json
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\bin\Debug\net7.0\NewAgeGalactic.github.io.dll
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\bin\Debug\net7.0\NewAgeGalactic.github.io.pdb
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\obj\Debug\net7.0\NewAgeGalactic.github.io.dll
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\obj\Debug\net7.0\refint\NewAgeGalactic.github.io.dll
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\obj\Debug\net7.0\NewAgeGalactic.github.io.pdb
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\obj\Debug\net7.0\NewAgeGalactic.github.io.genruntimeconfig.cache
+C:\Users\GAMER\Documents\GitHub\NewAgeGalactic.github.io\obj\Debug\net7.0\ref\NewAgeGalactic.github.io.dll
