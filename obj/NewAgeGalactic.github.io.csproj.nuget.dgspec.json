@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GAMER\\Documents\\GitHub\\NewAgeGalactic.github.io\\NewAgeGalactic.github.io.csproj": {}
+    "c:\\Users\\GAMER\\Documents\\GitHub\\NewAgeGalactic.github.io\\NewAgeGalactic.github.io.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GAMER\\Documents\\GitHub\\NewAgeGalactic.github.io\\NewAgeGalactic.github.io.csproj": {
+    "c:\\Users\\GAMER\\Documents\\GitHub\\NewAgeGalactic.github.io\\NewAgeGalactic.github.io.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GAMER\\Documents\\GitHub\\NewAgeGalactic.github.io\\NewAgeGalactic.github.io.csproj",
+        "projectUniqueName": "c:\\Users\\GAMER\\Documents\\GitHub\\NewAgeGalactic.github.io\\NewAgeGalactic.github.io.csproj",
         "projectName": "NewAgeGalactic.github.io",
-        "projectPath": "C:\\Users\\GAMER\\Documents\\GitHub\\NewAgeGalactic.github.io\\NewAgeGalactic.github.io.csproj",
+        "projectPath": "c:\\Users\\GAMER\\Documents\\GitHub\\NewAgeGalactic.github.io\\NewAgeGalactic.github.io.csproj",
         "packagesPath": "C:\\Users\\GAMER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GAMER\\Documents\\GitHub\\NewAgeGalactic.github.io\\obj\\",
+        "outputPath": "c:\\Users\\GAMER\\Documents\\GitHub\\NewAgeGalactic.github.io\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
